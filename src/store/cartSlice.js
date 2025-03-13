@@ -1,4 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
+// eslint-disable-next-line no-unused-vars
 import { act } from "react";
 
 const cartSlice = createSlice({
